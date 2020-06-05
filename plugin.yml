@@ -4,7 +4,7 @@ version: 1.0
 main: matymare\chatmute\ChatMute
 author: matymare
 description: Mute all chat!
-website: https://github.com/matymare/
+website: https://github.com/matymare/ChatMute/
 
 commands:
   chatmute:
