@@ -1,1 +1,10 @@
+#  Please do not edit anything, otherwise the plugin may break!
+global-mute: false
+clear-chat: true
+turned-on: "§8[§eChatMute§8] §aChat muted..."
+turned-off: "§8[§eChatMute§8] §cChat UnMuted!"
+chat-error: "§8[§eChatMute§8] §cYou can't chat. Chat has been muted!"
 
+# If you want to edit something in the plugins, write to the plugin owner.
+# Discord: Roospy#1666
+# Website: https://github.com/matymare/ChatMute/
