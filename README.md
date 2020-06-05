@@ -1,0 +1,2 @@
+# ChatMute
+Mute Alp chats!
