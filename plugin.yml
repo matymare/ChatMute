@@ -1,0 +1,13 @@
+name: ChatMute
+api: 3.0.0
+version: 1.0
+main: matymare\chatmute\ChatMute
+author: matymare
+description: Mute all chat!
+website: https://github.com/matymare/
+
+commands:
+  chatmute:
+    aliases: [chc]
+    description: Turn chat on or off!
+    permission: chat.mute
